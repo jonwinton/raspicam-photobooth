@@ -1,0 +1,29 @@
+{
+  "name": "raspicam-photobooth",
+  "version": "0.0.1",
+  "description": "A wrapper around Raspicam with functionality befitting a photo booth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonwinton/raspicam-photobooth.git"
+  },
+  "keywords": [
+    "raspicam",
+    "photo",
+    "photobooth",
+    "raspbery",
+    "pi"
+  ],
+  "author": "Jon Winton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonwinton/raspicam-photobooth/issues"
+  },
+  "homepage": "https://github.com/jonwinton/raspicam-photobooth#readme",
+  "dependencies": {
+    "lodash": "^4.17.3"
+  }
+}
